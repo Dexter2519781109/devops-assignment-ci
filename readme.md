@@ -44,3 +44,5 @@ Tartalom:
 
 A tesztek eredménye (zöld/piros) nem számít, csak az, hogy a pipeline elinduljon.
 
+# kis módosítás
+Ez egy teszt PR módosítás a workflow kipróbálásához.
